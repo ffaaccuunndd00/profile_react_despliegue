@@ -3,10 +3,10 @@ import React from 'react';
 function About() {
     // Datos ficticios para el componente "Acerca de"
     const aboutData = {
-        nombre: 'Juan Pérez',
-        edad: 30,
-        profesion: 'Desarrollador Web',
-        descripcion: 'Soy un apasionado desarrollador web con experiencia en tecnologías como React, Node.js y Bootstrap. Me encanta crear aplicaciones web creativas y funcionales para mis clientes. Fuera del trabajo, disfruto de la música, la lectura y el senderismo en la naturaleza.',
+        nombre: 'Facundo Rodrigo',
+        edad: 26,
+        profesion: 'Comunicador social',
+        descripcion: 'Soy una persona que se caracteriza por estar haciendo algo todo el tiempo. Me apasiona aprender nuevas cosas, redactar y, sobre todas las cosas, divertirme. El humor y la diversión son dos de los pilares más importantes en mi día a día.',
     };
 
     return (
